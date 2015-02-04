@@ -1,3 +1,2 @@
-Hello
 This is a git demo
-for 3g
+on branch dev
